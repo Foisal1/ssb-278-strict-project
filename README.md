@@ -1,0 +1,1 @@
+# ssb-278-strict-project
